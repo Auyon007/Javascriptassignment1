@@ -57,4 +57,7 @@ else if (a == 4) {
     } else if (i >= 0 && i <= 49) {
         alert("You got F")
     }
+    else{
+        alert("Invalid Marks")
+    }
 }
