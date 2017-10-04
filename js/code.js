@@ -61,3 +61,6 @@ else if (a == 4) {
         alert("Invalid Marks")
     }
 }
+    else{
+        alert("Invalid input")
+    }
